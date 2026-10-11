@@ -1,8 +1,8 @@
-# Glyph8192
+# Accelerando
 
 **8,192 original glyphs. One reversible tokenizer.**
 
-[Explore the live site](https://gillverd.github.io/glyph8192/)
+[Explore the live site](https://gillverd.github.io/accelerando/)
 
 An angular, mint-green alien alphabet paired with a custom 8,192-entry byte-pair tokenizer. The site includes a searchable character archive, a local browser encoder, an Accelerando specimen, and downloadable fonts, atlases, and reproducible tokenizer data.
 
