@@ -47,4 +47,4 @@ GitHub Pages serves the `docs/` directory on the `main` branch. All asset paths 
 
 ## Attribution
 
-The alien glyph system was developed from an image supplied for this project. **Accelerando** is by **Grimes & Vadakin**; its supplied lyrics were transformed into the glyph specimen. Song material remains the property of its respective rights holders. The tokenizer vocabulary is derived from [OpenAI tiktoken](https://github.com/openai/tiktoken), which is MIT-licensed; its notice is included in `THIRD_PARTY_NOTICES.txt`. No ownership of the song is claimed.
+The alien glyph system was inspired by the lettering in the [Accelerando music video](https://www.youtube.com/watch?v=AVu5p2DMIf8), using a reference image supplied for this project. **Accelerando** is by **Grimes & Vadakin**; its supplied lyrics were transformed into the glyph specimen. Song material remains the property of its respective rights holders. The tokenizer vocabulary is derived from [OpenAI tiktoken](https://github.com/openai/tiktoken), which is MIT-licensed; its notice is included in `THIRD_PARTY_NOTICES.txt`. No ownership of the song is claimed.
